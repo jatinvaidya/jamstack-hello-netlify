@@ -1,0 +1,25 @@
+{
+  "name": "jamstack-hello-netlify",
+  "version": "1.0.0",
+  "description": "jamstack-hello",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatinvaidya/jamstack-hello-netlify.git"
+  },
+  "keywords": [
+    "jamstack"
+  ],
+  "author": "jatin.vaidya@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatinvaidya/jamstack-hello-netlify/issues"
+  },
+  "homepage": "https://github.com/jatinvaidya/jamstack-hello-netlify#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
